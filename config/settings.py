@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'dj_rest_auth', # new
     'dj_rest_auth.registration', # new
+    'drf_yasg',
     
 ]
 
